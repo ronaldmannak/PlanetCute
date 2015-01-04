@@ -1,8 +1,8 @@
-# Danc's CutePlanet Game Prototyping Vector Tiles
+# Danc's PlanetCute Game Prototyping Vector Tiles
 
 [Daniel Cook](https://plus.google.com/+DanielCookGameDesign/posts) released a set of very useful prototyping game tiles on [Lost Garden](http://www.lostgarden.com/2007/05/dancs-miraculously-flexible-game.html) back in 2007 as PNG files and the (to me) obscure XAML vector format.
 
-![CutePlanet example](http://lostgarden.com/uploaded_images/BlockRPGMockup-772325.jpg)
+![PlanetCute example](http://lostgarden.com/uploaded_images/BlockRPGMockup-772325.jpg)
 
 # Work in Progress
 For prototyping on retina displays it makes sense to use the vector files instead of the (by today's standards) low resolution original PNG files.
